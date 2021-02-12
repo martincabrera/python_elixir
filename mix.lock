@@ -1,0 +1,3 @@
+%{
+  "erlport": {:hex, :erlport, "0.10.1", "c96ffa51bbcab0298232fcdfe8c3e110f1598011de71ae6b9082b80c9e2e476a", [:rebar3], [], "hexpm", "34931e8cb62a131d1bc8a2bd04d4007c73c03e4f10e22ee4a218e7172227a918"},
+}
