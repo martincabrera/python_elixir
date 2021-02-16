@@ -1,21 +1,12 @@
 # PythonElixir
 
-**TODO: Add description**
+**Sample project - How to add Python to an Elixir project with ErlPort + Poolboy**
 
-## Installation
+## Description
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `python_elixir` to your list of dependencies in `mix.exs`:
+This is sample project to demonstrate how easy is to interact with Python from an Elixir project.
 
-```elixir
-def deps do
-  [
-    {:python_elixir, "~> 0.1.0"}
-  ]
-end
-```
+We use:
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/python_elixir](https://hexdocs.pm/python_elixir).
-
+- ErlPort to interact with Python
+- Poolboy as a connection pool for Python workers
